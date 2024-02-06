@@ -35,6 +35,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_screenutil: ^5.9.0
   firebase_core: ^2.24.2
+  firebase_auth: ^4.6.3
+  firebase_database: ^10.2.3
+  google_sign_in: ^6.1.4
+  shared_preferences: ^2.0.8
+  email_validator: ^2.0.1
+  string_validator: ^0.3.0
+  cloud_firestore: ^4.13.3
 
 dev_dependencies:
   flutter_test:
