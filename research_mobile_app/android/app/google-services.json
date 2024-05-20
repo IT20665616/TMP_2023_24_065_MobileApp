@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "918991242264",
+    "project_id": "melowave-2d440",
+    "storage_bucket": "melowave-2d440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918991242264:android:36f6e122f86a30cb63ef6d",
+        "android_client_info": {
+          "package_name": "com.example.melowave1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918991242264-7o4utqg0tq3v2hbkp7jiqbqe7lhcn85c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melowave1",
+            "certificate_hash": "5aba8a83a5c97ef7d8ab11a38243dfc9ea6a6030"
+          }
+        },
+        {
+          "client_id": "918991242264-ap6kpaksj40q6r2mq4mvd5h7ql76ao69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melowave1",
+            "certificate_hash": "0eda7f2a788e937f5b61a39b4c7ee6b967b57ae2"
+          }
+        },
+        {
+          "client_id": "918991242264-fn3tlq2rfrqhft577nnf1rhqsl700eg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melowave1",
+            "certificate_hash": "d163747f975ccce0d7fe48cd77dba6299d7cbb29"
+          }
+        },
+        {
+          "client_id": "918991242264-4vu4ie046ako6uls7j5ktgbp0i5e34iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpergKlGWkVmXtm_GBYa3gw-oxu1_7NdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918991242264-33s9kimnc3m5fmivbmefmigvf2gs4pfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

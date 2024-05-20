@@ -1,0 +1,36 @@
+// Function to handle combined model requests
+Future<void> analyzeImage(BuildContext context) async {
+  // First send image to the original model
+  await sendImageToModel(context);
+  // Then send image to the new weather model
+  await sendImageToWeatherModel(context);
+  // Finally, show the result dialog with responses from both models
+  showCombinedResultDialog(context);
+}
+
+weatherPredictionResponse
+
+
+                const SizedBox(height: 20),
+                Text(
+                  ('Weather Mode: ${recommendationHubResponse}'),
+                  textAlign: TextAlign.center,
+                  style: TextStyle(color: Colors.blueAccent),
+                ),
+                Text(
+                  ('Attire Mode: ${weatherPredictionResponse}'),
+                  textAlign: TextAlign.center,
+                  style: TextStyle(color: Colors.blueAccent),
+                ),
+                const SizedBox(height: 20),
+
+                                    setState(() {
+                      profileAgeResponse = '$ageResult';
+                      profileGenderResponse = '$genderResult';
+                    });
+
+                      String profileAgeResponse = "";
+  String profileGenderResponse = "";
+
+                  onPressed: () => checkIfAppIsActive(context),
+                  icon: Icons.info,

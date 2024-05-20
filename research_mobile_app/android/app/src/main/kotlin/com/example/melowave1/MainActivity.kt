@@ -1,4 +1,4 @@
-package com.example.research_mobile_app
+package com.example.melowave1
 
 import io.flutter.embedding.android.FlutterActivity
 
